@@ -31,7 +31,7 @@ This dashboard addresses these analytical requirements by converting raw transac
 * **Tableau Desktop**
 * Data Modeling (Relationships / Joins)
 * Calculated Fields & Aggregations
-* Level of Detail (LOD) Expressions (if applicable)
+* Level of Detail (LOD) Expressions 
 * Parameter Controls
 * Interactive Filters
 * KPI Design & Visual Encoding Principles
